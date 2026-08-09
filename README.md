@@ -78,7 +78,7 @@ I'm a Computer Science Engineering student at **Indian Institute of Information 
 
 **Tech:** `Python` `CNN` `LSTM` `Flask` `OpenCV` `Computer Vision`
 
-🔗 **Project:** [DetectAI](YOUR_DETECTAI_REPOSITORY_LINK)
+🔗 **Project:** [DetectAI](https://github.com/sudev1629/DetectAI)
 
 ---
 
