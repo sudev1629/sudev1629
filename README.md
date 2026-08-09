@@ -61,7 +61,7 @@ I'm a Computer Science Engineering student at **Indian Institute of Information 
 
 **Tech:** `React` `TypeScript` `Node.js` `Express.js` `Supabase` `PostgreSQL` `Hugging Face` `Tailwind CSS`
 
-🔗 **Project:** [NoteZ](YOUR_NOTEZ_REPOSITORY_LINK)
+🔗 **Project:** [NoteZ](https://github.com/sudev1629/NoteZ)
 
 ---
 
