@@ -1,15 +1,13 @@
-Here is your complete updated Profile / Portfolio Markdown with the **Swiggy Sales Analysis Dashboard** project seamlessly integrated into your **Featured Projects** section:
 
-```markdown
 # Hi 👋, I'm Gunupudi Venkata Sai Sudev Mounish
 
 ### B.Tech CSE Student | AI/ML Enthusiast | Full-Stack Developer
 
-I'm a Computer Science Engineering student at **Indian Institute of Information Technology, Kottayam**, passionate about building intelligent applications and solving real-world problems using **AI/ML, Full-Stack Development, and Computer Vision**.
+I'm a Computer Science Engineering student at **Indian Institute of Information Technology, Kottayam**, passionate about building intelligent applications and solving real-world problems using **AI/ML, Full-Stack Development, Data Analytics, and Computer Vision**.
 
 - 🎓 B.Tech in Computer Science & Engineering @ IIIT Kottayam
 - 🤖 Interested in Artificial Intelligence & Machine Learning
-- 💻 Full-Stack Developer
+- 💻 Full-Stack Developer & Data Analyst
 - 👁️ Exploring Computer Vision & Deep Learning
 - 🧠 Practicing Data Structures & Algorithms
 - 🚀 Currently building and learning new technologies
@@ -30,18 +28,17 @@ I'm a Computer Science Engineering student at **Indian Institute of Information 
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,typescript,tailwind,flask" />
 </p>
 
-### AI / Machine Learning & Analytics
+### AI / Machine Learning & Data Analytics
 
 - Python
 - Machine Learning
 - Computer Vision
 - Deep Learning
-- CNN
-- LSTM
+- Data Analytics & Business Intelligence
+- Microsoft Excel (Pivot Tables, Advanced Analytics)
+- CNN & LSTM
 - Object Detection
-- Hugging Face
-- OpenCV
-- Microsoft Excel & BI Analytics
+- Hugging Face & OpenCV
 
 ### Databases & Cloud
 
@@ -69,6 +66,21 @@ I'm a Computer Science Engineering student at **Indian Institute of Information 
 
 ---
 
+### 📊 Swiggy Sales Analysis & BI Dashboard
+
+**Interactive Excel Dashboard & Business Intelligence Suite**
+
+- Engineered an interactive executive-level sales dashboard in **Microsoft Excel** analyzing **197K+ orders** and **₹53.01M+** in Gross Order Value (GOV).
+- Evaluated key business metrics including Average Order Value (**₹268.51**) and customer feedback metrics across **5.5M+ rating submissions**.
+- Uncovered revenue distribution trends by dietary preference (**64% Veg vs 36% Non-Veg**) and mapped top city & partner restaurant performance (**KFC, McDonald's, Pizza Hut, Burger King**).
+- Designed dynamic UX using Pivot Tables, Pivot Charts, Slicers, and custom navigation for seamless cross-filtering across timelines and regions.
+
+**Tech:** `Microsoft Excel` `Pivot Tables` `Data Analytics` `Business Intelligence` `Data Visualization`
+
+🔗 **Project:** [Sales-Analysis-Dashboard-in-Excel](https://github.com/sudev1629/Sales-Analysis-Dashboard-in-Excel)
+
+---
+
 ### 🤖 DetectAI – Deepfake Video Detection System
 
 **Hybrid CNN-LSTM Based Deepfake Detection System**
@@ -83,22 +95,6 @@ I'm a Computer Science Engineering student at **Indian Institute of Information 
 **Tech:** `Python` `CNN` `LSTM` `Flask` `OpenCV` `Computer Vision`
 
 🔗 **Project:** [DetectAI](https://github.com/sudev1629/DetectAI)
-
----
-
-### 📊 Swiggy Sales Analysis Dashboard
-
-**Interactive Business Intelligence & Data Analytics Dashboard in Excel**
-
-- Built an interactive executive dashboard in Microsoft Excel analyzing **197K+ orders** totaling **₹53.01M+** in Gross Order Value (GOV).
-- Evaluated core business metrics including Average Order Value (**₹268.51**) and customer ratings across **5.59M+ rating submissions**.
-- Conducted customer segmentation and dietary analysis, uncovering a **64% Vegetarian vs 36% Non-Vegetarian** revenue split.
-- Mapped urban performance across cities (led by **Bengaluru**) and tracked revenue from major QSR chains (**KFC, McDonald's, Pizza Hut, Burger King**).
-- Engineered dynamic cross-filtering and interactive controls using **Pivot Tables, Pivot Charts, Slicers, and custom UI navigation**.
-
-**Tech:** `Microsoft Excel` `Pivot Tables` `Data Analytics` `Business Intelligence` `Data Visualization` `Slicers`
-
-🔗 **Project:** [Sales-Analysis-Dashboard-in-Excel](https://github.com/sudev1629/Sales-Analysis-Dashboard-in-Excel)
 
 ---
 
@@ -128,8 +124,8 @@ I'm a Computer Science Engineering student at **Indian Institute of Information 
 ## 📚 Currently Learning
 
 - Advanced Machine Learning
-- Deep Learning
-- Computer Vision
+- Deep Learning & Computer Vision
+- Data Analytics & Business Intelligence
 - Data Structures & Algorithms
 - System Design
 - Full-Stack Development
