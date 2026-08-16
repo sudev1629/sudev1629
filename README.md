@@ -1,3 +1,6 @@
+Here is your complete updated Profile / Portfolio Markdown with the **Swiggy Sales Analysis Dashboard** project seamlessly integrated into your **Featured Projects** section:
+
+```markdown
 # Hi 👋, I'm Gunupudi Venkata Sai Sudev Mounish
 
 ### B.Tech CSE Student | AI/ML Enthusiast | Full-Stack Developer
@@ -27,7 +30,7 @@ I'm a Computer Science Engineering student at **Indian Institute of Information 
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,typescript,tailwind,flask" />
 </p>
 
-### AI / Machine Learning
+### AI / Machine Learning & Analytics
 
 - Python
 - Machine Learning
@@ -38,6 +41,7 @@ I'm a Computer Science Engineering student at **Indian Institute of Information 
 - Object Detection
 - Hugging Face
 - OpenCV
+- Microsoft Excel & BI Analytics
 
 ### Databases & Cloud
 
@@ -79,6 +83,22 @@ I'm a Computer Science Engineering student at **Indian Institute of Information 
 **Tech:** `Python` `CNN` `LSTM` `Flask` `OpenCV` `Computer Vision`
 
 🔗 **Project:** [DetectAI](https://github.com/sudev1629/DetectAI)
+
+---
+
+### 📊 Swiggy Sales Analysis Dashboard
+
+**Interactive Business Intelligence & Data Analytics Dashboard in Excel**
+
+- Built an interactive executive dashboard in Microsoft Excel analyzing **197K+ orders** totaling **₹53.01M+** in Gross Order Value (GOV).
+- Evaluated core business metrics including Average Order Value (**₹268.51**) and customer ratings across **5.59M+ rating submissions**.
+- Conducted customer segmentation and dietary analysis, uncovering a **64% Vegetarian vs 36% Non-Vegetarian** revenue split.
+- Mapped urban performance across cities (led by **Bengaluru**) and tracked revenue from major QSR chains (**KFC, McDonald's, Pizza Hut, Burger King**).
+- Engineered dynamic cross-filtering and interactive controls using **Pivot Tables, Pivot Charts, Slicers, and custom UI navigation**.
+
+**Tech:** `Microsoft Excel` `Pivot Tables` `Data Analytics` `Business Intelligence` `Data Visualization` `Slicers`
+
+🔗 **Project:** [Sales-Analysis-Dashboard-in-Excel](https://github.com/sudev1629/Sales-Analysis-Dashboard-in-Excel)
 
 ---
 
@@ -128,17 +148,13 @@ I'm a Computer Science Engineering student at **Indian Institute of Information 
 
 ---
 
-
-
 ## 🤝 Connect With Me
 
 <p align="left">
 
-<a href="www.linkedin.com/in/sudev-gunupudi">
+<a href="https://www.linkedin.com/in/sudev-gunupudi">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-
 
 <a href="https://leetcode.com/u/Sudev_16/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
@@ -159,3 +175,4 @@ I'm a Computer Science Engineering student at **Indian Institute of Information 
 ---
 
 ⭐ **Feel free to explore my repositories and connect with me!**
+```
